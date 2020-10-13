@@ -1,0 +1,78 @@
+#welcome {
+    background: linear-gradient(#e8de25 0%, #67e630 100%);
+    text-align: center;
+    height: 500px;
+}
+
+#NaitikRoy {
+    height: 300px;
+    width: 300px;
+    margin-top: 30px;
+}
+
+#p1 {
+    font-size: 25px;
+}
+
+#a,
+#h2,
+#h3,
+#h4,
+#h5 {
+    color: darkmagenta;
+    text-decoration: underline;
+}
+
+#x {
+    background: linear-gradient(#328fa8 0%, #50a832 100%);
+    text-align: center;
+    padding: 20px;
+}
+
+.i {
+
+    margin-top: -400px;
+    margin-right: 30px;
+    list-style: none;
+}
+
+.list {
+    float: left;
+    padding: 10px;
+    font-size: 20px
+}
+
+#games,
+#apps,
+#chatbot,
+#location {
+    text-align: center;
+}
+
+#games {
+    background: linear-gradient(#f8fc03 0%, #98fc03 100%);
+    padding: 30px;
+}
+
+#flappy:hover {
+    transform: scale(1.2);
+}
+
+#shooter:hover {
+    transform: scale(1.2);
+}
+
+#apps {
+    background: linear-gradient(#98fc03 0%, #731bd1 100%);
+    padding: 30px;
+}
+
+#chatbot {
+    background: linear-gradient(#d11b82 0%, #d1451b 100%);
+    padding: 30px;
+}
+
+#location {
+    background: linear-gradient(#d1ce1b 0%, #1bbfd1 100%);
+    padding: 30px;
+}
